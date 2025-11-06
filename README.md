@@ -72,4 +72,4 @@ These projects represent my journey from low-level algorithms to modern web APIs
 I'm open to connecting, discussing opportunities, and collaborating.
 
 * **LinkedIn:** http://linkedin.com/in/alexander-kuzmin-58939b29a
-* **Email:** [alexander.lucens@gmail.com](mailto:alexander.lucens@gmail.com)
+* **Email:** [workmail.general@gmail.com](mailto:workmail.general@gmail.com)
