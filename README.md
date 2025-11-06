@@ -19,7 +19,6 @@ I am actively seeking an **Internship** or **Junior Developer** position in Berl
 
 * **🎓 At 42 Berlin:** I am preparing for my `rank_04` exam and have completed projects like `cub3d` (a 2.5D Raycasting engine) and `push_swap` (an algorithmic sorting challenge).
 * **🚀 At RS School:** I am intensively studying backend development. My current modules include `Simple CRUD API`, `Basic Testing`, `File Manager`, `GraphQL Basics`, and `Home Library Service`.
-* **🌱 My Next Goal:** After finishing my `rank_04` exam, I plan to "close the gestalt" by building a complete Full-Stack project (like my `task-pilot-app`) to connect my backend skills with a functional frontend and design.
 
 ---
 
@@ -72,5 +71,5 @@ These projects represent my journey from low-level algorithms to modern web APIs
 
 I'm open to connecting, discussing opportunities, and collaborating.
 
-* **LinkedIn:** `http://linkedin.com/in/alexander-kuzmin-58939b29a`
+* **LinkedIn:** http://linkedin.com/in/alexander-kuzmin-58939b29a
 * **Email:** [alexander.lucens@gmail.com](mailto:alexander.lucens@gmail.com)
