@@ -1,4 +1,4 @@
-# Hi, I'm Alexander Kuzmin👋
+# Hi, I'm Aleksandr Kuzmin👋
 
 <p align="left">
    <p>
