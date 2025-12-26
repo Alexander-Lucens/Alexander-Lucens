@@ -62,7 +62,6 @@ These projects represent my journey from low-level algorithms to modern web APIs
 | **crud-api-ts** | **[Backend]** (RS School) A clean, simple CRUD API built from scratch, focusing on core Node.js principles and TypeScript. | `TypeScript`, `Node.js` |
 | **cub3d** | **[C / Graphics]** (42 Project) Built a "2.5D" game engine (like Wolfenstein 3D) from scratch using Raycasting. | `C`, `MiniLibX`, `Math` |
 | **push_swap** | **[C / Algorithms]** (42 Project) Wrote an efficient sorting algorithm for two stacks using a minimal number of operations. | `C`, `Algorithms` |
-| **task-pilot-app** (WIP) | **[Backend - Private]** My personal JIRA-like project. The base API for tasks and users is built, pending frontend integration. | `TypeScript`, `Node.js`, `Express` |
 | **FilmFind** | **[Frontend]** An educational project to practice React basics, state management, and fetching data from external APIs. | `JavaScript`, `React` |
 
 ---
