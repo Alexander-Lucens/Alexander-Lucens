@@ -25,7 +25,7 @@ Right now I’m focused on:
 ## 💻 Tech Stack
 
 **Backend:** Node.js, NestJS, Express, REST APIs  
-**Databases:** MongoDB (Mongoose), PostgreSQL 
+**Databases:** MongoDB (Mongoose), PostgreSQL  s
 **Frontend:** React, JavaScript, TypeScript, HTML, CSS  
 **Languages:** JavaScript, TypeScript, C, basic C++, Python, SQL  
 **Tools:** Git, Docker (basics)
