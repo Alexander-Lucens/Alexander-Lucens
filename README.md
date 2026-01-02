@@ -24,10 +24,14 @@ Right now I’m focused on:
 
 ## 💻 Tech Stack
 
-**Backend:** Node.js, NestJS, Express, REST APIs\n 
-**Databases:** MongoDB (Mongoose), PostgreSQL\n
-**Frontend:** React, JavaScript, TypeScript, HTML, CSS\n
-**Languages:** JavaScript, TypeScript, C, basic C++, Python, SQL\n
+**Backend:** Node.js, NestJS, Express, REST APIs
+
+**Databases:** MongoDB (Mongoose), PostgreSQL
+
+**Frontend:** React, JavaScript, TypeScript, HTML, CSS
+
+**Languages:** JavaScript, TypeScript, C, basic C++, Python, SQL
+
 **Tools:** Git, Docker (basics)\n
 
 ---
