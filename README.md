@@ -38,7 +38,7 @@ Right now I’m focused on:
 
 ## Selected Projects
 
-### 🔹 Backend & Full-Stack
+### Backend & Full-Stack
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -49,9 +49,6 @@ Right now I’m focused on:
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 kuzminalex96@icloud.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/alexander-kuzmin-58939b29a  
-
-Thanks for reading!
