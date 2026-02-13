@@ -1,54 +1,29 @@
-# Hi, I'm Aleksandr Kuzmin 
+# Aleksandr Kuzmin
+Software Engineer (Full Stack) • TypeScript · NestJS · C++ • Berlin
 
-<p align="left">
-   <p>
-    Software Engineer (Backend / Full-Stack) • Berlin, Germany
-  </p>
-</p>
-
----
-
-## About Me
-
-I’m a software engineer with a strong interest in backend architecture, building reliable APIs, and developing full-stack applications.
-
-Most of my learning comes from **project-based environments** such as 42 Berlin and Rolling Scopes School — where you solve real problems, collaborate, and work under pressure.
-
-Right now I’m focused on:
-
-- improving backend engineering skills  
-- building production-style projects  
-- learning AI step-by-step (without hype — focusing on fundamentals)
-
----
+## About
+Backend-focused full-stack engineer with experience across the full stack —
+from low-level C++ systems to production-ready TypeScript APIs.
+Studying at 42 Berlin (C/C++ systems programming) and Rolling Scopes School
+(Node.js/NestJS backend track). I build things end-to-end and ship them.
 
 ## Tech Stack
-
-**Backend:** Node.js, NestJS, Express, REST APIs
-
-**Databases:** MongoDB (Mongoose), PostgreSQL
-
-**Frontend:** React, JavaScript, TypeScript, HTML, CSS
-
-**Languages:** JavaScript, TypeScript, C, basic C++, Python, SQL
-
-**Tools:** Git, Docker (basics)\n
-
----
+**Languages:** TypeScript, JavaScript, C++, C, SQL, Python  
+**Backend:** Node.js, NestJS, Express, REST API, JWT, PostgreSQL, MongoDB, Prisma  
+**Frontend:** React, Next.js, HTML5, SCSS  
+**Tools:** Docker, Git, GitHub Actions, Swagger  
 
 ## Selected Projects
-
-### Backend & Full-Stack
-
 | Project | Description | Tech |
-|--------|-------------|------|
-| **crud-api-ts** | Practical CRUD backend — routes, validation, error handling | TypeScript, Node.js |
-| **nodejs2025Q4-service** | Custom backend service (learning project) | Nest.js |
-| **file-manager** | CLI file manager using Node.js FS APIs | JavaScript |
-| **cub3d** | Raycasting project from 42 Berlin | C |
+|---|---|---|
+| **Zimt-CLI** | Open-source CLI that scaffolds NestJS backends with auth and RBAC via AST parsing | TypeScript, Node.js, AST |
+| **Webserv** | nginx-like HTTP/1.1 server with epoll, non-blocking I/O, raw TCP sockets | C++98 |
+| **RESTful Backend Service** | Production-style API with JWT auth, refresh tokens, Swagger docs, E2E tests | NestJS, PostgreSQL, Docker |
+| **Minishell** | Custom Unix shell with command parsing, pipes, redirections, and signal handling | C |
 
 ---
 
 ## Contact
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/alexander-kuzmin-58939b29a  
+- LinkedIn: https://www.linkedin.com/in/alexander-kuzmin-58939b29a  
+- e-mail: aleksandr.kuzmin.swe@gmail.com
