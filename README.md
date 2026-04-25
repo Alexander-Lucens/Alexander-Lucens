@@ -1,4 +1,4 @@
-# Aleksandr Kuzmin
+# Oleksandr Kuzmin
 Software Engineer (Full Stack) • TypeScript · NestJS · C++ • Berlin
 
 ## About
