@@ -35,7 +35,7 @@ times — so I automated it. That's how I work: if it repeats, I build the tool.
 | Project | What it does | Stack |
 |---|---|---|
 | **[Zimt-CLI](https://github.com/olucens/zimt-cli)** | Scaffolds a full NestJS backend with JWT auth & RBAC in one command — uses AST parsing to generate and wire modules. Cuts ~4h of setup per project. | TypeScript · Node.js · AST |
-| **[Webserv](https://github.com/olucens/webserv)** | nginx-like HTTP/1.1 server built from scratch — non-blocking I/O with epoll, raw TCP sockets, CGI, zero external libs. | C++98 |
+| **[Webserv](https://github.com/olucens/42-webserv)** | nginx-like HTTP/1.1 server built from scratch — non-blocking I/O with epoll, raw TCP sockets, CGI, zero external libs. | C++98 |
 | **[RESTful Backend Service](https://github.com/olucens/nodejs2025Q4-service)** | Production-style media-library API: JWT auth with refresh-token rotation, Swagger docs, E2E + unit tests, Dockerized. | NestJS · PostgreSQL · Docker |
 | **[cub3d](https://github.com/olucens/cub3d)** | Raycasting 3D engine (Wolfenstein-style) — textures, collision, real-time rendering. | C |
 | **[Minishell](https://github.com/olucens/minishell)** | POSIX shell: command parsing, pipes, redirections, signal handling, env vars. | C |
