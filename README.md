@@ -21,9 +21,13 @@ times — so I automated it. That's how I work: if it repeats, I build the tool.
 ## Tech Stack
 
 **Backend:** Node.js · NestJS · Express · REST API · JWT/RBAC · PostgreSQL · Prisma · MongoDB
+
 **Systems:** C · C++ · non-blocking I/O · sockets · memory management
+
 **Infra:** Docker · Docker Compose · GitHub Actions · CI/CD · Linux
-**Frontend:** React · Next.js · TypeScript · SCSS
+
+**Frontend:** React · Angular · Next.js · SCSS
+
 **Tools:** Git · Swagger/OpenAPI · Jest · Vitest
 
 ## Selected Projects
