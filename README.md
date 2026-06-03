@@ -1,29 +1,48 @@
 # Oleksandr Kuzmin
-Software Engineer (Full Stack) • TypeScript · NestJS · C++ • Berlin
+
+**Backend Engineer** · Node.js / NestJS / TypeScript · C/C++ systems · Berlin 🇩🇪
+
+🔭 Open to backend & full-stack roles — Berlin / Remote (EU)
 
 ## About
-Backend-focused full-stack engineer with experience across the full stack —
-from low-level C++ systems to production-ready TypeScript APIs.
-Studying at 42 Berlin (C/C++ systems programming) and Rolling Scopes School
-(Node.js/NestJS backend track). I build things end-to-end and ship them.
+
+I build backend systems end-to-end — from low-level C/C++ (HTTP servers, Unix shells
+written from scratch at 42 Berlin) to production-grade TypeScript APIs with NestJS,
+PostgreSQL, and Docker.
+
+That range is the point: understanding sockets, memory, and the event loop at the C
+level makes me a sharper Node.js engineer. Before software I ran construction projects
+under hard deadlines — coordinating teams, thinking in systems, shipping under pressure.
+I bring that same precision to code.
+
+I built **Zimt-CLI** because I was tired of writing the same NestJS boilerplate four
+times — so I automated it. That's how I work: if it repeats, I build the tool.
 
 ## Tech Stack
-**Languages:** TypeScript, JavaScript, C++, C, SQL, Python  
-**Backend:** Node.js, NestJS, Express, REST API, JWT, PostgreSQL, MongoDB, Prisma  
-**Frontend:** React, Next.js, HTML5, SCSS  
-**Tools:** Docker, Git, GitHub Actions, Swagger  
+
+**Backend:** Node.js · NestJS · Express · REST API · JWT/RBAC · PostgreSQL · Prisma · MongoDB
+**Systems:** C · C++ · non-blocking I/O · sockets · memory management
+**Infra:** Docker · Docker Compose · GitHub Actions · CI/CD · Linux
+**Frontend:** React · Next.js · TypeScript · SCSS
+**Tools:** Git · Swagger/OpenAPI · Jest · Vitest
 
 ## Selected Projects
-| Project | Description | Tech |
-|---|---|---|
-| **Zimt-CLI** | Open-source CLI that scaffolds NestJS backends with auth and RBAC via AST parsing | TypeScript, Node.js, AST |
-| **Webserv** | nginx-like HTTP/1.1 server with epoll, non-blocking I/O, raw TCP sockets | C++98 |
-| **RESTful Backend Service** | Production-style API with JWT auth, refresh tokens, Swagger docs, E2E tests | NestJS, PostgreSQL, Docker |
-| **Minishell** | Custom Unix shell with command parsing, pipes, redirections, and signal handling | C |
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| **[Zimt-CLI](https://github.com/olucens/zimt-cli)** | Scaffolds a full NestJS backend with JWT auth & RBAC in one command — uses AST parsing to generate and wire modules. Cuts ~4h of setup per project. | TypeScript · Node.js · AST |
+| **[Webserv](https://github.com/olucens/webserv)** | nginx-like HTTP/1.1 server built from scratch — non-blocking I/O with epoll, raw TCP sockets, CGI, zero external libs. | C++98 |
+| **[RESTful Backend Service](https://github.com/olucens/nodejs2025Q4-service)** | Production-style media-library API: JWT auth with refresh-token rotation, Swagger docs, E2E + unit tests, Dockerized. | NestJS · PostgreSQL · Docker |
+| **[cub3d](https://github.com/olucens/cub3d)** | Raycasting 3D engine (Wolfenstein-style) — textures, collision, real-time rendering. | C |
+| **[Minishell](https://github.com/olucens/minishell)** | POSIX shell: command parsing, pipes, redirections, signal handling, env vars. | C |
+
+## Currently
+
+Studying at **42 Berlin** (C/C++ systems) and **Rolling Scopes School** (Node.js/NestJS backend).
+Sharpening: Kubernetes, system design, high-load Node.js.
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/alexander-kuzmin-58939b29a  
-- e-mail: aleksandr.kuzmin.swe@gmail.com
+- 📧 oleksandr.kuzmin.swe@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-kuzmin-swe)
+- 📍 Berlin, Germany
